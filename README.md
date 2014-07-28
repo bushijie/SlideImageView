@@ -2,4 +2,4 @@ SlideImageView
 ==============
 
 SlideImageView
-[video]: http://github.com/github.png "github"  
+[image]: http://github.com/github.png "github"  

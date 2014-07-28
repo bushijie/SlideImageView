@@ -2,4 +2,4 @@ SlideImageView
 ==============
 
 SlideImageView
-[image]: http://github.com/github.png "github"  
+[![image]](http://www.github.com/)  
